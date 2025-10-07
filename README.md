@@ -1,6 +1,14 @@
-# create-svelte
+# Cost-Benefit Analysis of Dynamic Resource Allocation
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This project was developed as part of my bachelor's thesis titled "Development of a web application for cost-benefit analysis of HPC innovations."
+It provides an interactive web application that allows users to analyze and evaluate dynamic resource allocation strategies—particularly regarding cost efficiency and performance in high-performance computing (HPC) environments.
+
+The app enables users to simulate different scenarios and visualize their effects on utilization, costs, and optimization potential.
+
+##Overview
+
+The goal of this project is to offer a tool that helps decision-makers in HPC environments understand when switching from static to dynamic resource allocation becomes cost-effective.
+It allows modeling of various parameters such as resource costs, workload characteristics, and runtime durations, and displays the resulting trade-offs through charts and performance metrics.
 
 ## Creating a project
 

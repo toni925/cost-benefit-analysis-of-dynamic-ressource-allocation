@@ -5,7 +5,7 @@ It provides an interactive web application that allows users to analyze and eval
 
 The app enables users to simulate different scenarios and visualize their effects on utilization, costs, and optimization potential.
 
-##Overview
+## Overview
 
 The goal of this project is to offer a tool that helps decision-makers in HPC environments understand when switching from static to dynamic resource allocation becomes cost-effective.
 It allows modeling of various parameters such as resource costs, workload characteristics, and runtime durations, and displays the resulting trade-offs through charts and performance metrics.
